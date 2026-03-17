@@ -57,7 +57,7 @@ input {
 
 button {
   margin: 1rem;
-  padding: 10px 20px;
+  padding: 10px 8px;
   font-size: 2rem;
   border-radius: 10px;
   background-color: white;
@@ -87,7 +87,7 @@ button:active {
 #setTime {
   flex-basis: 100%;
   max-width: 220px;
-  margin: 0.5rem auto 0;
+  margin: 2rem auto 0;
 }
 
 .active-start {
@@ -158,7 +158,7 @@ button:active {
   #start {
     height: 5.5rem;
     width: 5.5rem;
-    margin: 0.7rem;
+    margin: 0.5rem;
   }
 
   .interactions {
