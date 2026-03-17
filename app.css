@@ -63,7 +63,7 @@ label {
 }
 
 #setTime {
-  flex-basis: 100%;
+  flex-basis: 80%;
   margin-top: 1rem;
 }
 
@@ -90,7 +90,7 @@ label {
 
   #display {
     font-size: 5rem;
-    margin-top: 3rem;
+    margin-top: 6rem;
     margin-bottom: 3rem;
   }
 
